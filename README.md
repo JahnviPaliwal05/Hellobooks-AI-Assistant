@@ -29,8 +29,7 @@ The assistant answers accounting-related questions using company knowledge docum
 
 ---
 
-
-
+<img width="632" height="802" alt="Image" src="https://github.com/user-attachments/assets/af80964c-b7f5-46c8-9230-8b7e5779be40" />
 ---
 
 ## Setup Instructions
@@ -38,7 +37,7 @@ The assistant answers accounting-related questions using company knowledge docum
 ### 1. Clone Repository
 
 ```bash
-git clone <your-repository-link>
+git clone <https://github.com/JahnviPaliwal/Hellobooks-AI-Assistant/>
 cd hellobooks-ai-assistant
 ```
 
